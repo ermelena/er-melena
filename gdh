@@ -1,0 +1,15 @@
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.
+
+La principal diferencia entre Git y cualquier otro VCS es como Git modela sus datos
+la mayoria de los de los demas sistemas almacenan la informacion como una lista de cambios en los archivos. Estos sistemas modelan la información que almacenan como unconjunto de archivos y las modificaciones hechas sobre cada una de ellas
+a lo largo del tiempo.
+
+
+¿Qué uso le damos?
+
+En nuestra especialidad “Programación” , fuimos aprendiendo y creando programas de codigo abierto , fomentando el software libre.
+
+
+¿Qué herramientas proporciona?
+
+Github es mucho mas que un servicio de alojamiento de codigo , Ademas de este se ofrece otras herramientas utiles para el trabajo en equipo se pueden destacar
